@@ -1,4 +1,7 @@
-## Provisioning the Kubernetes cluster
+# Provisioning the Kubernetes cluster
+
+## Provisioning the Kubernetes cluster using Vagrant
+
 ### Clone the repo
 ```
 $ git clone https://github.com/Sivaji1208/kubernetes
